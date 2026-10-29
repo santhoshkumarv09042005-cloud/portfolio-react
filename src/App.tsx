@@ -71,6 +71,7 @@ export default function App() {
             </div>
           </div>
         </section>
+        
 
         <section className="split-layout">
           <div>
